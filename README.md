@@ -38,9 +38,7 @@ Beginning with the import of some useful libraries and setting up a path to the 
 * The total number of votes cast --
 The 'len' function is applied to the list to calculate the total number of votes cast.
 
-* A complete list of candidates who received votes, 
-* The percentage of votes each candidate won, 
-* The total number of votes each candidate won -- 
+* A complete list of candidates who received votes, the percentage of votes each candidate won, the total number of votes each candidate won -- 
 The list is traversed, and a new dictionary is created with all unique candidate names, their respective total votes and percentages.
 
 * The winner of the election based on popular vote --
