@@ -1,5 +1,3 @@
-#!/opt/conda/bin/python
-
 # import data in csv file
 import logging 
 import os
