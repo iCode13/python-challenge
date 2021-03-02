@@ -2,9 +2,9 @@
 
 In this assignment, Python scripting and concepts are used to complete the two Python Challenges, PyBank and PyPoll. 
     
-### Objectives & Solution Approach (refer to text files for Python scripts)
+## Objectives & Solution Approach (refer to text files for Python scripts)
 
-### PyBank
+## PyBank
 
 Objective is to create a script for analyzing the financial records of a company. A set of financial data called budget_data.csv is provided for analysis, with the dataset consisting of two columns: date and profits/losses.
    
@@ -29,7 +29,7 @@ The 'min' function is used to calculate this.
     
 The f-string method is used to print results of the analysis. The 'with' statement is used in conjunction with 'file.write' method to export analysis results as a text file.
 
-### PyPoll
+## PyPoll
 
 Objective is to help a small, rural town modernize its vote-counting process, create a python script to analyze the votes for each candidate and write out the analysis as a text file. A set of poll data is provided called election_data.csv, with the dataset composed of three columns: voter id, county, and candidate.
 
@@ -46,5 +46,8 @@ A counter is created to traverse the dictionary and find the candidate with the 
   
 The f-string method is used to print results of the analysis. The 'with' statement is used in conjunction with 'file.write' method to export analysis results as a text file. Computation takes some time due to the larger than usual size of the dataset.
 
-### Technologies
+## Technologies
     * Python 3.7
+
+## Contact
+Created by [@iCode13](https://github.com/iCode13) - pleease contact me with questions/comments.
