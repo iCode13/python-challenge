@@ -47,7 +47,9 @@ A counter is created to traverse the dictionary and find the candidate with the 
 The f-string method is used to print results of the analysis. The 'with' statement is used in conjunction with 'file.write' method to export analysis results as a text file. Computation takes some time due to the larger than usual size of the dataset.
 
 ## Technologies
-    * Python 3.7
+    
+* Python 3.7
 
 ## Contact
-Created by [@iCode13](https://github.com/iCode13) - pleease contact me with questions/comments.
+
+Created by [@iCode13](https://github.com/iCode13) - pleease contact with questions/comments.
