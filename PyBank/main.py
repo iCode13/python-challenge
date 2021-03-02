@@ -92,8 +92,5 @@ with open(pybank_output_path, 'a') as file:
     file.write(f"Total: ${tot_pnl}\n")
     file.write(f"Average Change: ${avg_change}\n")
     file.write(f"Greatest Increase in Profits: {budget_dicts_list[max_diff_index + 1]['Date']} (${diffs_list[max_diff_index]})\n")
-    file.write(f"Greatest Decrease in Profits: {budget_dicts_list[min_diff_index + 1]['Date']} (${diffs_list[min_diff_index]})")
-
-
-        
+    file.write(f"Greatest Decrease in Profits: {budget_dicts_list[min_diff_index + 1]['Date']} (${diffs_list[min_diff_index]})")      
     
